@@ -3,7 +3,7 @@
 𝗦𝘁𝗲𝗽 1 
 Install library ( using following code )
 
->> pip install qrcode[pil] tkinter
+pip install qrcode[pil] tkinter
 
 𝗦𝘁𝗲𝗽 2 
 Use "python qr_code_generator.py" file code 
