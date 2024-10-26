@@ -9,6 +9,7 @@ pip install qrcode[pil] tkinter
 Use "python qr_code_generator.py" file code 
 
 How to , 
+
 • QR Code Generation: When the user clicks the "Generate QR Code" button, the input text is used to generate a QR code.
 
 • Save QR Code: The generated QR code can be saved as a PNG file.
